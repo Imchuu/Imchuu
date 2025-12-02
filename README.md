@@ -1,5 +1,4 @@
 ## Hi, I'm Ngoc Mai 👋
-----------------------------------------------------------------------
 
  📊 Data Analyst sharing about my ongoing and completed data projects  
  🎓 Studied Data Analytics in Economics and Business at the Academy of Policy and Development, Vietnam  
